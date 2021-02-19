@@ -2,7 +2,7 @@
 
 //Task 1.16
 
-int sum = 0; //Global score variable
+int sum = 0; //Global scope variable
 
 int ReturnSum()
 {
