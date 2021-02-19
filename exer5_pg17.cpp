@@ -24,8 +24,15 @@ void ReadInput()
 	}
 }
 
+void PrintInstructions()
+{
+	std::cout << "Press CTLR+Z and then Enter to print sum and terminate." << std::endl;
+}
+
 int main()
 {
+	PrintInstructions();
+
 	ReadInput();
 
 	int sum = ReturnSum();
