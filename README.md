@@ -1,7 +1,7 @@
 # cppPrimer_exer5_pg17
 Task 1.16: Write your own version of a program that prints the sum of a set of integers read from _cin_.\
 _**Based on below code sample**_
-```
+```Csharp
 #include <iostream>
 
 int main()
